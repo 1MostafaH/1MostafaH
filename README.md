@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mostafa hesham
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Flutter
 
 - 📫 How to reach me !!!!!!!!!!!!
 
